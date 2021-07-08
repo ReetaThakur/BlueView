@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="customTextView">
+        <item name="android:layout_width">180dp</item>
+        <item name="android:layout_height">60dp</item>
+        <item name="android:textColor">#0583EA</item>
+        <item name="android:background">@color/white</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">20dp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="customTextView1">
+        <item name="android:layout_width">180dp</item>
+        <item name="android:layout_height">5dp</item>
+        <item name="android:background">#0583EA</item>
+    </style>
+
+
+
+</resources>
